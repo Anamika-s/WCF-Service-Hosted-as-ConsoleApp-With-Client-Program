@@ -1,0 +1,11 @@
+C:\Users\adminvm.adminvm\source\repos\WcfServiceLibrary1\WCFHost\bin\Debug\WCFHost.exe.config
+C:\Users\adminvm.adminvm\source\repos\WcfServiceLibrary1\WCFHost\bin\Debug\WCFHost.exe
+C:\Users\adminvm.adminvm\source\repos\WcfServiceLibrary1\WCFHost\bin\Debug\WCFHost.pdb
+C:\Users\adminvm.adminvm\source\repos\WcfServiceLibrary1\WCFHost\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\adminvm.adminvm\source\repos\WcfServiceLibrary1\WCFHost\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\adminvm.adminvm\source\repos\WcfServiceLibrary1\WCFHost\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\adminvm.adminvm\source\repos\WcfServiceLibrary1\WCFHost\obj\Debug\WCFHost.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\source\repos\WcfServiceLibrary1\WCFHost\obj\Debug\WCFHost.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\source\repos\WcfServiceLibrary1\WCFHost\obj\Debug\WCFHost.csproj.CopyComplete
+C:\Users\adminvm.adminvm\source\repos\WcfServiceLibrary1\WCFHost\obj\Debug\WCFHost.exe
+C:\Users\adminvm.adminvm\source\repos\WcfServiceLibrary1\WCFHost\obj\Debug\WCFHost.pdb
